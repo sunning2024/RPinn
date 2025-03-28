@@ -16,7 +16,7 @@ config = {
     "physics_weight": 0.3,  # 调整物理损失权重
     "batch_size": 32,
     "lr": 3e-4,          # 增大学习率
-    "epochs": 2000,       # 增加训练轮数
+    "epochs": 200,       # 增加训练轮数
     "weight_decay": 1e-4 # 权重衰减
 }
 
